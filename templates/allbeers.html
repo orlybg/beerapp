@@ -1,0 +1,15 @@
+<html>
+	<body>
+		<h1> All Beers! </h1>
+		<ul id='beer-list'>
+		<?php
+
+			foreach($beers as $Beer) {
+				?>
+					<li>
+						<?php echo $Beer->name; ?>
+					</li>
+		<?}?>
+	</ul>
+	</body>
+</html>

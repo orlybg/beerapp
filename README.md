@@ -11,7 +11,3 @@ http://www.slimframework.com/news/how-to-organize-a-large-slim-framework-applica
 http://j4mie.github.io/idiormandparis/
 
 http://phphttpclient.com/
-
-https://github.com
-http://www.linkedin.com/
-http://www.bluetrailsoft.com/contact.php
